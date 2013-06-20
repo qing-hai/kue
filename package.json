@@ -1,6 +1,6 @@
 {
     "name": "kuesf"
-  , "version": "0.8.3"
+  , "version": "0.8.4"
   , "description": "Feature rich priority job queue backed by redis, use EJSON"
   , "homepage": "https://github.com/qing-hai/kue"
   , "keywords": ["job", "queue", "worker", "redis"]
