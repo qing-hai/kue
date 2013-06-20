@@ -1,13 +1,13 @@
 {
-    "name": "kuesf"
-  , "version": "0.8.0"
+    "name": "kue"
+  , "version": "0.8.1"
   , "description": "Feature rich priority job queue backed by redis, use EJSON"
-  , "homepage": "http://learnboost.github.com/kue/"
+  , "homepage": "https://github.com/qing-hai/kue"
   , "keywords": ["job", "queue", "worker", "redis"]
   , "author": "TJ Holowaychuk <tj@learnboost.com>"
   , "repository":{
         "type": "git"
-      , "url": "https://github.com/LearnBoost/kue.git"
+      , "url": "https://github.com/qing-hai/kue.git"
     }
   , "dependencies": {
       "redis": "0.7.2"
