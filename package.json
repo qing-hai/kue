@@ -1,10 +1,10 @@
 {
-    "name": "kuesf"
-  , "version": "0.8.4"
-  , "description": "Feature rich priority job queue backed by redis, use EJSON"
+    "name": "seafish-kue"
+  , "version": "0.6.3"
+  , "description": "Forked from Kue, replace JSON with meteor EJSON"
   , "homepage": "https://github.com/qing-hai/kue"
-  , "keywords": ["job", "queue", "worker", "redis"]
-  , "author": "TJ Holowaychuk <tj@learnboost.com>"
+  , "keywords": ["job", "queue", "worker", "redis", "EJSON"]
+  , "author": "qinghai <noteon@gmail.com>"
   , "repository":{
         "type": "git"
       , "url": "https://github.com/qing-hai/kue.git"
