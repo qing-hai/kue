@@ -1,6 +1,6 @@
 {
     "name": "seafish-kue"
-  , "version": "0.6.8"
+  , "version": "0.6.10"
   , "description": "Forked from Kue, replace JSON with meteor EJSON"
   , "homepage": "https://github.com/qing-hai/kue"
   , "keywords": ["job", "queue", "worker", "redis", "EJSON"]
@@ -15,7 +15,7 @@
     , "jade": "0.26.3"
     , "stylus": "0.27.2"
     , "nib": "0.5.0"
-	, "meteor-ejson": "~0.6.3"
+    , "meteor-ejson": "~0.6.3"
     , "reds": "0.1.4"
   }
   , "main": "index"
